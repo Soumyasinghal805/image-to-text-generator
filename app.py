@@ -19,7 +19,7 @@ import zipfile
 # Page Configuration
 # ============================================================
 st.set_page_config(
-    page_title="Image-to-Text Generator | Tharun Ponnam",
+    page_title="VisionAI | Soumya Singhal",
     page_icon="🖼️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -447,7 +447,7 @@ with st.sidebar:
     st.markdown("""
     <div class="sidebar-header">
         <div class="sidebar-header-emoji">🖼️</div>
-        <div class="sidebar-header-text">Image-to-Text Generator</div>
+        <div class="sidebar-header-text">VisionAI</div>
     </div>
     """, unsafe_allow_html=True)
     
@@ -455,9 +455,9 @@ with st.sidebar:
     st.markdown("""
     <div class="author-info">
         <h3>👤 Author</h3>
-        <p><strong>Tharun Ponnam</strong></p>
-        <p>🔗 <a href="https://github.com/tharun-ship-it" target="_blank">@tharun-ship-it</a></p>
-        <p>📧 tharunponnam007@gmail.com</p>
+        <p><strong>Soumya Singhal</strong></p>
+        <p>🔗 <a href="https://github.com/Soumyasinghal805" target="_blank">@Soumyasinghal805</a></p>
+        <p>📧 singhalsoumya122@gmail.com</p>
     </div>
     """, unsafe_allow_html=True)
     
@@ -589,7 +589,7 @@ with st.sidebar:
 # ============================================================
 
 # Title (BLACK heading)
-st.markdown('<h1 class="main-title">🖼️ Image-to-Text Generator</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-title">🖼️ VisionAI – Transformer-Based Image Captioning</h1>', unsafe_allow_html=True)
 st.markdown('<p class="subtitle">Generate Natural Language Descriptions for Images using BLIP Architecture</p>', unsafe_allow_html=True)
 
 # Quick Stats Row
