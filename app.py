@@ -1,5 +1,5 @@
 """
-"""
+
 VisionAI - Transformer-Based Image Captioning System
 
 An interactive image captioning application using the BLIP Transformer model.
