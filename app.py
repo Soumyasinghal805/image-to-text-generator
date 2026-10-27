@@ -1,11 +1,11 @@
 """
-Image-to-Text Generator - Interactive Demo Application
+"""
+VisionAI - Transformer-Based Image Captioning System
 
-A professional Streamlit-based web application for automatic image captioning
-using BLIP architecture with multi-image support and batch processing.
+An interactive image captioning application using the BLIP Transformer model.
 
-Author: Tharun Ponnam
-GitHub: @tharun-ship-it
+Project Developer: Soumya Singhal
+
 """
 
 import streamlit as st
